@@ -1,0 +1,6 @@
+[submodule "vilga_nuxt"]
+	path = vilga_nuxt
+	url = git@github.com:alexinbox80/vilga_nuxt.git
+[submodule "vilga_laravel"]
+	path = vilga_laravel
+	url = git@github.com:alexinbox80/vilga_laravel.git
